@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  8 16:27:35 2019
 
-@author: abubeke
+@author: chniranjanreddy
 """
 import numpy as np
 import matplotlib.pyplot as plt
